@@ -1,0 +1,10 @@
+.centrado{
+	text-align: center;
+	margin: auto;
+	align-self: center;
+}
+
+.right{
+	margin-left: 50px;
+	margin-bottom: 25px;
+}
